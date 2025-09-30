@@ -4,4 +4,4 @@
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spookbio-bot&layout=compact&theme=tokyonight)
 </p>
 
-[![spook.bio](https://spook.bio/MainLogo.png)](https://prp.bio/)
+[![spook.bio](https://cdn.shapes.lol/spooky/logo.png)](https://prp.bio/)

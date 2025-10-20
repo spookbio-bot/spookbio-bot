@@ -1,7 +1,7 @@
 <p align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=spookbio-bot&theme=hacker)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spookbio-bot&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=spookyinc&theme=hacker)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spookyinc&layout=compact&theme=tokyonight)
 </p>
 
-[![spook.bio](https://cdn.shapes.lol/spooky/logo.png)](https://prp.bio/)
+[![Our Websites](https://cdn.shapes.lol/spook/logo.png)](https://github.com/our-websites)
